@@ -36,3 +36,10 @@ def find_most_frequent_endpoint(log_file_path):
 # Example usage
 log_file_path = 'example.log'  # Replace with your log file path
 find_most_frequent_endpoint(log_file_path)
+
+//Example Output:
+
+Most Frequently Accessed Endpoint:
+/home (Accessed 403 times)
+
+Replace 'example.log' with the actual path to your log file and run the script to identify the most frequently accessed endpoint.
